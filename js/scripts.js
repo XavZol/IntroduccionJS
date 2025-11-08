@@ -1,4 +1,4 @@
-alert("Hola Mundo"); para mesaje de alerta
+alert("Hola Mundo"); //para mesaje de alerta
 
 
 
